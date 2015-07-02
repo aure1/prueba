@@ -1,3 +1,3 @@
 p 'dime tu nombre'
 nombre = gets.chmop
-p "nombre #{nombre}"
+p "nombre #{nombre}, como estas?"
